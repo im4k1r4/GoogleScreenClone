@@ -4,6 +4,8 @@ Este projeto é uma reprodução simplificada da página inicial do Google, cria
 # Screenshot
 ![Screenshot do projeto](assets/images/googleclonepage.png)
 
+[Google Clone](https://im4k1r4.github.io/GoogleScreenClone/)
+
 # Tecnologias Utilizadas
 - HTML5.
 - CSS3.
